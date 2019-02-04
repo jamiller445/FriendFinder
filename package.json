@@ -22,4 +22,8 @@
     "url": "https://github.com/jamiller445/FriendFinder/issues"
   },
   "homepage": "https://github.com/jamiller445/FriendFinder#readme"
+  "scripts": {
+	     "start": "node server.js"
+	      }
+
 }
